@@ -2,6 +2,26 @@
     box-sizing: border-box;
 }
 
+button {
+    margin: 0;
+    padding: 0;
+    border: none;
+    background: #dddddd;
+    cursor: pointer;
+}
+
+button:hover {
+    color: #fff;
+    background: green;
+
+}
+
+@media (max-height:641px) {
+    .skin {
+        margin-top: -70px;
+    }
+}
+
 #buttons {
     position: fixed;
     right: 0;
@@ -15,7 +35,9 @@
 
 #buttons>button {
     margin-bottom: 10px;
-    padding: 4px 8px;
+    width: 70px;
+    height: 44px;
+    font-size: 18px;
 }
 
 #demo2 {
