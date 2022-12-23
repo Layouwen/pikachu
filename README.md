@@ -2,7 +2,7 @@
 
 ## 查看效果
 
-[点击预览](https://layouwen.github.io/Pikachu/src/index.html)
+[点击预览](https://layouwen.github.io/pikachu/src/index.html)
 
 ## 介绍
 
